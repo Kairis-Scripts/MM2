@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/MM2-Script/refs/heads/main/kairishub-remastered.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/test/refs/heads/main/kairis%20hub.lua"))()
