@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/dvZsyXkbAf/0"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/MM2-Script/refs/heads/main/kairisspawner-remastered.lua"))()
