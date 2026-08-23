@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/test/refs/heads/main/kairis%20hub.lua"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjYyY2VmMzEzLWQ0YmItNGI3MS05YmY0LWQ2MTkyZjVkMmVhZCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJvdmVyZHJpdmUifX0"))()
