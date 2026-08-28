@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nyxie-Scripts/-/refs/heads/main/odh.lua"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjYyY2VmMzEzLWQ0YmItNGI3MS05YmY0LWQ2MTkyZjVkMmVhZCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJvdmVyZHJpdmUifX0"))()
