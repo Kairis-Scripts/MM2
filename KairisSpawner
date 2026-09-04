@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/MM2-Scripts/refs/heads/main/KAIRIS%20SPAWNER-obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/MurderMystery2/refs/heads/main/Kairis%20Spawner-lph-obfuscated.lua"))()
