@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/MM2-Scripts/refs/heads/main/TRADE%20CONTROLLER-obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/MurderMystery2/refs/heads/main/Trade%20Controller-lph-obfuscated.lua"))()
