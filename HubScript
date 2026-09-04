@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Q1v8ZdN1qs/0"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/MM2-Scripts/refs/heads/main/KAIRIS%20HUB-obfuscated.lua"))()
