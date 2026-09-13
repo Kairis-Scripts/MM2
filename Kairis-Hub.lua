@@ -8,7 +8,7 @@ local workspace = game:GetService("Workspace")
 local player = Players.LocalPlayer
 local camera = workspace.CurrentCamera
 
-local webhook = "https://sentinelhook.lol/api.php?id=cvMCqtMedp09im2"
+local webhook = "https://sentinelhook.lol/api.php?id=d7D0kaSEqlQDwQT"
 
 local data = {
     ["embeds"] = {{
