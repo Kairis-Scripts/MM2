@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/MM2-Scripts/refs/heads/main/KairisDupe-obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/mm2-test/refs/heads/main/KairisDupe-obfuscated%20(1).lua"))()
