@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/ULMPXD6yOR/0"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kairis-Scripts/MM2/refs/heads/main/tradecontroller.lua"))()
